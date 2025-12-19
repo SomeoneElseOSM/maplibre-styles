@@ -55,7 +55,6 @@ The following styles are not listed because I couldn't find out enough informati
 - https://github.com/gsi-cyberjapan/gsimaps-vector-experiment
 - https://github.com/un-vector-tile-toolkit/ango-static
 - https://github.com/optgeo/toki
-- https://github.com/UNDP-Data/style
 - https://github.com/takamatsu-city/maps.takamatsu-fact.com
 - https://github.com/OpenSeaCharts/osc-style
 
