@@ -41,7 +41,7 @@
 | [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Japanese Scroll](https://www.openhistoricalmap.org/#layers=J) | OHM vtiles | CC0 | CC0 | [Maplibre JSON](https://github.com/OpenHistoricalMap/map-styles) |
 | [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Railway](https://www.openhistoricalmap.org/#layers=R) | OHM vtiles | CC0 | CC0 | [Maplibre JSON](https://github.com/OpenHistoricalMap/map-styles) |
 | [OpenHistoricalMap](https://www.openhistoricalmap.org/) | [Woodblock](https://www.openhistoricalmap.org/#layers=W) | OHM vtiles | CC0 | CC0 | [Maplibre JSON](https://github.com/OpenHistoricalMap/map-styles) |
-
+| [Open Infrastructure Map](https://openinframap.org) | [Open Infrastructure Map](https://openinframap.org) | Protomaps & Custom | CC-BY | MIT | [TypeScript](https://github.com/openinframap/openinframap/tree/main/web/src/style) |
 
 [^notmap]: Style attribution may be provided from a linked page and need not be present on the map itself
 [^positroncc0]: [Contradictory information is available on the license](https://github.com/openmaptiles/positron-gl-style/issues/22)
